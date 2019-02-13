@@ -2,7 +2,7 @@
 public class Hello Words {
 
 public statoc void main (String [] args) {
-//vtoriq
+//vtoriqt napred
 int ''a''
 
     }
